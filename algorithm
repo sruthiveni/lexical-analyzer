@@ -1,0 +1,7 @@
+Step 1: Initialize four arrays to hold operators, keywords, special symbols and identifiers respectively.
+Step 2: Open the input file in read mode.
+Step 3: Display the choices to list the tokens.
+Step 4: Get the choice from the user.
+Step 5: Scan the characters of the input file one at a time.
+Step 6: Compare with the tokens in the array.
+Step 7: Print the token type.
